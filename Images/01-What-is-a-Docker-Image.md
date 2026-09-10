@@ -120,7 +120,3 @@ Layer 1 → FROM
 Docker Images are built using layers. Docker reuses these layers whenever possible, making builds faster and more efficient.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **Containers/01-What-is-a-Container.md**

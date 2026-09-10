@@ -73,9 +73,3 @@ This uses the Node.js 24 image, which already includes Node.js.
 The `FROM` instruction is the first instruction in a Dockerfile. It tells Docker which base image to use for building your application.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **03-RUN.md**
-
-In the next chapter, we'll learn about the **RUN** instruction and how it is used to install packages and execute commands while building a Docker image.

@@ -86,9 +86,3 @@ docker network rm my-network
 A Docker Network connects containers and allows them to communicate with each other. It is commonly used when multiple containers work together as one application.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **02-Docker-Network-Types.md**
-
-In the next chapter, we'll learn about the different types of Docker Networks, such as **Bridge, Host, None, and Overlay**.

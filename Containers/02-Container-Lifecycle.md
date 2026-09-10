@@ -75,7 +75,3 @@ docker rm <container-id>
 A Docker Container moves through different stages, such as create, start, stop, restart, and remove.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **Volumes/01-What-is-a-Volume.md**

@@ -74,9 +74,3 @@ RUN mkdir /app
 The `RUN` instruction executes commands while building a Docker image. It is commonly used to install software, create directories, and prepare the application environment.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **04-COPY.md**
-
-In the next chapter, we'll learn about the **COPY** instruction and how to copy files from your local machine into a Docker image.

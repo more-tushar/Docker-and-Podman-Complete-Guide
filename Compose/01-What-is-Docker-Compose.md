@@ -75,9 +75,3 @@ docker compose up -d  Or podman compose up -d
 Docker Compose allows us to define multiple containers and their configuration in one YAML file. It makes it easier to start, stop, and manage an application with multiple services.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **02-docker-compose.yml.md**
-
-In the next chapter, we'll learn about the basic structure of a Compose YAML file.

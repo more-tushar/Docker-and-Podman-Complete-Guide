@@ -52,9 +52,3 @@ Most Docker commands work the same in Podman.
 ## Summary
 
 Docker and Podman are both powerful container tools. Docker uses a background service (daemon), while Podman does not. Both can build and run containers, and most of their commands are very similar.
-
-## 📖 Next Topic
-
-➡️ **04-Container-vs-VM.md**
-
-In the next chapter, we'll learn the difference between **Containers** and **Virtual Machines (VMs)** and understand why containers are faster and more lightweight.

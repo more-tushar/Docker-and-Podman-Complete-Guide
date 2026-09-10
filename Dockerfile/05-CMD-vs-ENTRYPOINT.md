@@ -65,9 +65,3 @@ Use **CMD** when you want to provide a default command that users can change.
 Use **ENTRYPOINT** when the container should always run the same main command.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **06-ADD-vs-COPY.md**
-
-In the next chapter, we'll learn the difference between the **ADD** and **COPY** instructions and when to use each one.

@@ -88,9 +88,3 @@ Hardware
 Containers are lightweight, fast, and share the host operating system's kernel, making them ideal for modern applications. Virtual Machines include their own operating system, provide stronger isolation, but use more system resources.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **05-OCI-Overview.md**
-
-In the next chapter, we'll understand what **OCI** is, why it's important, and how it helps Docker and Podman work together.

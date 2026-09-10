@@ -79,9 +79,3 @@ This copies the `static` folder into the `/app/static/` directory inside the Doc
 The `COPY` instruction is used to copy files and folders from your local machine into a Docker image. It helps include your application code and other required files in the image.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **05-CMD-vs-ENTRYPOINT.md**
-
-In the next chapter, we'll learn the difference between the **CMD** and **ENTRYPOINT** instructions and when to use each one.

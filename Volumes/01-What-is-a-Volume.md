@@ -80,9 +80,3 @@ docker volume rm my-volume
 A Docker Volume is used to store persistent data outside a container. It helps keep important data safe even when a container is removed.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **02-Bind-Mount-vs-Volume.md**
-
-In the next chapter, we'll learn the difference between **Docker Volumes** and **Bind Mounts**.

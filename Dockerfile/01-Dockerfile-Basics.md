@@ -83,9 +83,3 @@ docker run my-app
 A Dockerfile is a text file that contains instructions to build a Docker image. It helps create consistent and reusable images for running applications in containers.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **02-FROM.md**
-
-In the next chapter, we'll learn about the **FROM** instruction and why every Dockerfile starts with it.

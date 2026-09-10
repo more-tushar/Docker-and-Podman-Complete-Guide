@@ -72,7 +72,3 @@ docker rm <container-id>
 A Docker Container is a running instance of a Docker Image. It allows applications to run in an isolated and consistent environment.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **02-Container-Lifecycle.md**

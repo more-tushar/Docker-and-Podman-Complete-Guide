@@ -81,9 +81,3 @@ Use **Volumes** when you want Docker to manage persistent data.
 Use **Bind Mounts** when you need direct access to files on your computer.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **Networks/01-What-is-a-Docker-Network.md**
-
-In the next chapter, we'll learn how Docker containers communicate with each other.

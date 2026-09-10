@@ -82,9 +82,3 @@ They are commonly associated with Docker Swarm.
 Docker provides different network types depending on how containers need to communicate. **Bridge** is commonly used for containers on the same host, while **Overlay** can connect containers across multiple hosts.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **Compose/01-What-is-Docker-Compose.md**
-
-In the next chapter, we'll learn how Docker Compose helps manage multiple containers using a single configuration file.

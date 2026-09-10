@@ -36,9 +36,3 @@ You can build a container image with Docker and run the same image with Podman b
 OCI (Open Container Initiative) is a standard that helps different container tools work together. It makes container images portable and compatible across tools like Docker and Podman.
 
 ---
-
-## 📖 Next Topic
-
-➡️ **Architecture/Docker-Architecture.md**
-
-In the next chapter, we'll learn how Docker works internally, including the Docker Engine, Docker Daemon, images, and containers.
